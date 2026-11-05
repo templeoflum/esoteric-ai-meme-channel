@@ -7,7 +7,7 @@ Searched 14 Oct 2026 for board task T-0538 (this also does the search T-0514 ask
 - The whole home folder by file name (Spotlight): `meme`, plus the exact file names of every candidate below, to find copies.
 - The whole home folder by text (Spotlight): "Esoteric Meme", "meme channel", "meme page", "meme account", "meme stream", "AI meme", "esoteric meme", "memes".
 - `~/Pictures`, `~/Desktop`, `~/Downloads` (file names only).
-- The work-wiki (creator statements, sources) and the HeDawn project's stock (`/Users/donovan/work/hedawn/stock/`) for which account is his main one.
+- The work-wiki (creator statements, sources) and the HeDawn project's stock (`/Users/donovan/work/sound/hedawn/stock/`) for which account is his main one.
 - The Mind Not Map folder and its backup (`MNM_BACKUP`) were covered by the Spotlight searches above; the only "meme" hit there is a DJ-class reference image (a Salvator Mundi conspiracy meme), not this channel's.
 
 Not searched: Google Drive, old ChatGPT chats, the Photos library, his phone, and the Instagram account itself (a logged-out fetch of @hedawn returned no posts on 12 Oct 2026, per the HeDawn stock).
@@ -18,7 +18,7 @@ Not searched: Google Drive, old ChatGPT chats, the Photos library, his phone, an
 |---|---|---|---|
 | N1 | "current projects" list. Under *Tertiary / long-arc*: **"Esoteric Meme Channel — Meme stream blending mysticism, symbolism, and humor for viral insight and cultural resonance."** | `/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/_archive/root_originals/current projects.docx` | 20 May 2025 |
 | N1 copy | Same text, parsed to JSON | `/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/project_management/current projects.json` | 22 Jan 2026 |
-| N2 | Hedawn's words as relayed on 13 Oct 2026: "concept only, never used; a handful of images went out on his main account" | `/Users/donovan/work/work-wiki/internal/creator-updates/new-projects-2026-10-13.md` | 13 Oct 2026 |
+| N2 | Hedawn's words as relayed on 13 Oct 2026: "concept only, never used; a handful of images went out on his main account" | `/Users/donovan/work/studio-operations/work-wiki/internal/creator-updates/new-projects-2026-10-13.md` | 13 Oct 2026 |
 
 No other note about the channel was found.
 
@@ -49,7 +49,7 @@ The "Made" date is the timestamp in the DALL·E file name.
 
 **Images 1, 2 and 7 went out on his main account**, per Hedawn’s answer to T-0546, recorded in the T-0781 work order. This is creator confirmation, not an independent account inspection. The other nine candidates have unknown posting status; they are not marked unposted.
 
-The exact account handle and posting dates remain unconfirmed. Instagram @hedawn is still an inference from the links recorded in `/Users/donovan/work/hedawn/stock/online-presence.md`, not something his answer confirmed.
+The exact account handle and posting dates remain unconfirmed. Instagram @hedawn is still an inference from the links recorded in `/Users/donovan/work/sound/hedawn/stock/online-presence.md`, not something his answer confirmed.
 
 ## Missing phone collection
 
